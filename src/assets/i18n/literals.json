@@ -1,0 +1,5 @@
+{
+    "privacyMessage": "Tailor Hub tratará mis datos personales con el fin de enviarme comunicaciones (incluso por medios electrónicos) sobre las actividades de la entidad y que pueden estar ajustadas a mi perfil, así como para cumplir con sus obligaciones legales. En el documento {{privacyPolicy}} se indica cómo puedo ejecer mis derechos de acceso, rectificación, supresión, limitación, portabilidad y oposición.",
+    "privacyPolicy": "Tratamiento de datos personales",
+    "welcomeTitle": "Gracias por visitarme {{username}}!"
+}
